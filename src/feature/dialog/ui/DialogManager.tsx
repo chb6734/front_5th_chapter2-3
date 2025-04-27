@@ -1,5 +1,5 @@
 import { PropsWithChildren } from "react"
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from "../../../shared/ui"
+import { Dialog, DialogContent, DialogHeader, DialogTitle } from "../../../shared/ui/Dialog"
 
 interface DialogManagerProps {
   open: boolean
